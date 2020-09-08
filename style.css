@@ -1,0 +1,52 @@
+header{
+  background-color: yellow;
+  height: 200px;
+  width: 100%;
+  margin-bottom: 10px;
+
+}
+
+ aside{
+   background-color: pink;
+   width: 30%;
+   height: 500px;
+   float: left;
+
+ }
+
+main{
+  background-color: purple;
+  width:calc(40% - 20px);
+  height: 600px;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+}
+
+aside.up{
+  background-color: pink
+  width 30%;
+  height: 250px;
+  float:right;
+}
+
+aside.down{
+  background-color: pink
+  width 30%;
+  height: 250px;
+
+  margin-top: 10px;
+
+}
+
+
+
+footer{
+  background-color: lightblue;
+  width: 100%;
+  height: 100px;
+  float: left;
+
+}
